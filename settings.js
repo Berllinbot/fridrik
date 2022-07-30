@@ -19,36 +19,36 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
+global.owner = ['+212608018203']
+global.premium = ['+212608018203']
 global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.ownername = '🐦FRIDRIK BOT'
+global.botname = 'FRIDRIK-BOT'
+global.footer = 'FRIDRIK BOT'
+global.ig = 'https://instagram.com/ismail_office_?igshid=YmMyMTA2M2Y='
+global.region = 'MOROCCO'
+global.sc = 'https://youtube.com/channel/UCtmrt1Eef3mnmkhvtL376LQ'
+global.myweb = 'https://youtube.com/channel/UCtmrt1Eef3mnmkhvtL376LQ'
+global.packname = 'FRIDRIK-BOT'
+global.author = '🐦FRIDRIK BOT'
+global.sessionName = 'FRIDRIK'
+global.prefa = ['🤩','👺','👻','🐦','🐤','🗿']
+global.sp = '🤧'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'تم اساط ✓',
+    admin: 'هادي غي ديال الادمنات اساط!',
+    botAdmin: 'البوت ادمن!',
+    owner: 'فريدريڪ بوت!',
+    group: 'هادي غي فالڪروبات اساط!',
+    private: 'هادي غي بريفي اساط!',
+    bot: 'فريدريڪ بوت',
+    wait: 'تسنا واحد دقيقة...',
+    error: 'غلط ! واش متأڪد داڪشي لي.ڪتبتي صحيح🤔!',
+    endLimit: 'عيقتي شوية سير تا تفوت 12 ساعة ورجع',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: "Infinity",
     monayawal: 1000
 }
    global.rpg = {
