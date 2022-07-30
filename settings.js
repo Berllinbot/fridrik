@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['+212608018203']
 global.premium = ['+212608018203']
-global.ownernomer = 'Your Number'
+global.ownernomer = '+212608018203'
 global.ownername = '🐦FRIDRIK BOT'
 global.botname = 'FRIDRIK-BOT'
 global.footer = 'FRIDRIK BOT'
@@ -31,7 +31,7 @@ global.sc = 'https://youtube.com/channel/UCtmrt1Eef3mnmkhvtL376LQ'
 global.myweb = 'https://youtube.com/channel/UCtmrt1Eef3mnmkhvtL376LQ'
 global.packname = 'FRIDRIK-BOT'
 global.author = '🐦FRIDRIK BOT'
-global.sessionName = 'FRIDRIK'
+global.sessionName = 'fri-drik'
 global.prefa = ['🤩','👺','👻','🐦','🐤','🗿']
 global.sp = '🤧'
 global.mess = {
