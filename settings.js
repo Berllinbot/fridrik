@@ -23,7 +23,7 @@ global.owner = ['+212608018203']
 global.premium = ['+212608018203']
 global.ownernomer = '+212608018203'
 global.ownername = '🐦FRIDRIK BOT'
-global.botname = 'FRIDRIK-BOT'
+global.botname = 'frid-rik'
 global.footer = 'FRIDRIK BOT'
 global.ig = 'https://instagram.com/ismail_office_?igshid=YmMyMTA2M2Y='
 global.region = 'MOROCCO'
@@ -31,7 +31,7 @@ global.sc = 'https://youtube.com/channel/UCtmrt1Eef3mnmkhvtL376LQ'
 global.myweb = 'https://youtube.com/channel/UCtmrt1Eef3mnmkhvtL376LQ'
 global.packname = 'FRIDRIK-BOT'
 global.author = '🐦FRIDRIK BOT'
-global.sessionName = 'fri-drik'
+global.sessionName = 'YkU1UmZwZ2U='
 global.prefa = ['🤩','👺','👻','🐦','🐤','🗿']
 global.sp = '🤧'
 global.mess = {
